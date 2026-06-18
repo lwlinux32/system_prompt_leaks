@@ -1,5 +1,5 @@
 # Leaked System Prompts
-  Using the best and easiest way to leak system prompts. How do i do it is pretty simple:
+  Using the easiest way to leak system prompts. How do i do it is pretty simple:
 ### Running unsencored local models
  #### What do you need?
    Ok, if you have a good pc or a decent pc with atleast a capability of running a 4B parameter model running localy, you can use this way! 
