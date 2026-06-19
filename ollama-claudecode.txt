@@ -3,7 +3,7 @@
 
 # Environment
 You have been invoked in the following environment:
- - Primary working directory: /home/mert
+ - Primary working directory: /home/user
  - Is a git repository: false
  - Platform: linux
  - Shell: bash
