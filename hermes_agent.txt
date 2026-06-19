@@ -119,8 +119,8 @@
     Only proceed without loading a skill if genuinely none are relevant to the task.
     
     Host: Linux (6.17.0-22-generic)
-    User home directory: /home/mert
-    Current working directory: /home/mert/.local/bin
+    User home directory: /home/user
+    Current working directory: /home/user/.local/bin
     
     Python toolchain: python3=3.14.5, python=3.13.7, pip→python3.13 (mismatch), PEP 668=yes (use venv or uv), uv=installed.
     
